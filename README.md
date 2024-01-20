@@ -8,8 +8,9 @@
 
 - 🔭 I’m currently working for **Holmium Technologies**
 
--👨‍💻 All of my projects are available at [https://www.github.com/manish208](https://www.github.com/manish208)
---🌍 Live With Netilfy: https://cityweatherwithmac.netlify.app/ 
+<h3 align="left"> My Projects: </h3>
+-👨‍💻 My projects are available at [https://www.github.com/manish208](https://www.github.com/manish208)
+-🌍 Live With Netilfy: [https://cityweatherwithmac.netlify.app/] 
 
 
 <h3 align="left">Connect with me:</h3>
