@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">A Fullstack Ddeveloper</h3>
+<h3 align="center">A Fullstack Developer</h3>
 <h4 align="center">Running Project IONIC Mobile App For Holmium Technology</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish208" alt="manish208" /></a> </p>
@@ -9,7 +9,7 @@
 - 🔭 I’m currently working for **Holmium Technologies**
 
 -👨‍💻 All of my projects are available at [https://www.github.com/manish208](https://www.github.com/manish208)
--🌍 Live With Netilfy: https://cityweatherwithmac.netlify.app/ 
+--🌍 Live With Netilfy: https://cityweatherwithmac.netlify.app/ 
 
 
 <h3 align="left">Connect with me:</h3>
