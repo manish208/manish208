@@ -8,7 +8,8 @@
 
 - 🔭 I’m currently working for **Holmium Technologies**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/manish208](https://www.github.com/manish208)
+## 👨‍💻 All of my projects are available at [https://www.github.com/manish208](https://www.github.com/manish208)
+  - Live With Netilfy: https://cityweatherwithmac.netlify.app/ 
 
 - 📫 How to reach me **manishchoudhary208@gmail.com**
 
